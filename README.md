@@ -1,1 +1,2 @@
-# ML-for-Scientific-Data-Analysis-Course
+# Machine learning for scientific data analysis
+Hometask projects for the course from ITMO University
